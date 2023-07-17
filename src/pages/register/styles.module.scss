@@ -1,0 +1,123 @@
+* {
+  padding:0;
+  margin:0;
+  vertical-align:baseline;
+  list-style:none;
+  border:0;
+}
+
+.main {
+  position: absolute;
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.left {
+  width: 50%;
+  height: 100%;
+  padding: 2rem 4rem 0 4rem;
+  background-color: #FED9B7;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+
+  .text{
+    font-size: 3.2rem;
+    color: #FDFCDC;
+    margin-bottom: 1.6rem;
+  }
+  .image{
+    img {
+      width: 500px;
+    }
+  }
+}
+
+.right {
+  width: 50%;
+  height: 100%;
+
+  padding:  0 4rem 0 4rem;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+
+  .form {
+    font-size: 1.2rem;
+    color: #535353;
+
+    input {
+      height: 54px;
+      position: relative;
+      padding: 0px 16px;
+      border: none;
+      border-radius: 4px;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: normal;
+      background-color: transparent;
+      color: #282828;
+      outline: none;
+      box-shadow: 0px 4px 20px 0px pink;
+      transition: 0.3s background-color ease-in-out, 0.3s box-shadow ease-in-out, 0.1s padding ease-in-out; -webkit-appearance: none;
+    }
+
+    input:hover{
+      background-color: rgba(255, 255, 255, 0.45);
+      box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.05);
+    }
+
+    .inputs {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+      margin: 1rem;
+
+    }
+
+    .all {
+      width:100%;
+    }
+
+    .meio {
+      width: 42%;
+
+    }
+
+  }
+
+  .submit {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    margin-top: 2rem;
+
+    input {
+      height: 54px;
+      position: relative;
+      padding: 0px 16px;
+      border: none;
+      border-radius: 4px;
+      font-size: 20px;
+      font-weight: 600;
+      line-height: normal;
+      background-color: #F07167;
+      color: #FED9B7;
+      outline: none;
+      transition: 0.3s background-color ease-in-out, 0.3s box-shadow ease-in-out, 0.1s padding ease-in-out; -webkit-appearance: none;
+    }
+
+    input:hover{
+      background-color: #FED9B7;
+      color: #F07167;
+    }
+  }
+
+
+}
