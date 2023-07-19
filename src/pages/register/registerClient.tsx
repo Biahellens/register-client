@@ -2,7 +2,7 @@ import React from 'react'
 import rocket from '../../assets/rocket.svg'
 import styles from './styles.module.scss'
 
-function ResgisterClient() {
+function RegisterClient() {
   return (
     <div className="App">
       <body>
@@ -53,4 +53,4 @@ function ResgisterClient() {
   )
 }
 
-export default ResgisterClient
+export default RegisterClient
