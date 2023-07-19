@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "client": {
+      "fantasyName": "Cliente A",
+      "corporateName": "Empresa A LTDA",
+      "email": "clienteA@example.com",
+      "cnpj": "12.345.678/0001-01",
+      "address": "Rua das Flores",
+      "number": "123",
+      "district": "Centro",
+      "zipCode": "12345-678",
+      "state": "SP"
+    }
+  },
+  {
+    "id": 2,
+    "client": {
+      "fantasyName": "Cliente B",
+      "corporateName": "Empresa B S/A",
+      "email": "clienteB@example.com",
+      "cnpj": "98.765.432/0001-02",
+      "address": "Avenida dos Bandeirantes",
+      "number": "456",
+      "district": "Jardins",
+      "zipCode": "98765-432",
+      "state": "RJ"
+    }
+  },
+  {
+    "id": 3,
+    "client": {
+      "fantasyName": "Cliente C",
+      "corporateName": "Empresa C & Filhos",
+      "email": "clienteC@example.com",
+      "cnpj": "55.555.555/0001-03",
+      "address": "Travessa das Oliveiras",
+      "number": "789",
+      "district": "Vila Nova",
+      "zipCode": "54321-987",
+      "state": "MG"
+    }
+  },
+  {
+    "id": 4,
+    "client": {
+      "fantasyName": "Cliente D",
+      "corporateName": "Empresa D EIRELI",
+      "email": "clienteD@example.com",
+      "cnpj": "11.222.333/0001-04",
+      "address": "Rua dos Pinheiros",
+      "number": "1010",
+      "district": "Pinheiros",
+      "zipCode": "11111-222",
+      "state": "SP"
+    }
+  },
+  {
+    "id": 5,
+    "client": {
+      "fantasyName": "Cliente E",
+      "corporateName": "Empresa E ME",
+      "email": "clienteE@example.com",
+      "cnpj": "44.333.222/0001-05",
+      "address": "Avenida das Palmeiras",
+      "number": "222",
+      "district": "Palm Springs",
+      "zipCode": "44444-555",
+      "state": "RJ"
+    }
+  },
+  {
+    "id": 6,
+    "client": {
+      "fantasyName": "Cliente F",
+      "corporateName": "Empresa F S/A",
+      "email": "clienteF@example.com",
+      "cnpj": "77.888.999/0001-06",
+      "address": "Praça da Liberdade",
+      "number": "555",
+      "district": "Liberdade",
+      "zipCode": "77777-888",
+      "state": "MG"
+    }
+  },
+  {
+    "id": 7,
+    "client": {
+      "fantasyName": "Cliente G",
+      "corporateName": "Empresa G LTDA",
+      "email": "clienteG@example.com",
+      "cnpj": "01.010.101/0001-07",
+      "address": "Rua dos Sabiás",
+      "number": "77",
+      "district": "Pássaros",
+      "zipCode": "12345-678",
+      "state": "SP"
+    }
+  },
+  {
+    "id": 8,
+    "client": {
+      "fantasyName": "Cliente H",
+      "corporateName": "Empresa H & Filhos",
+      "email": "clienteH@example.com",
+      "cnpj": "02.020.202/0001-08",
+      "address": "Avenida dos Coqueiros",
+      "number": "101",
+      "district": "Coqueiral",
+      "zipCode": "22222-333",
+      "state": "RJ"
+    }
+  },
+  {
+    "id": 9,
+    "client": {
+      "fantasyName": "Cliente I",
+      "corporateName": "Empresa I EIRELI",
+      "email": "clienteI@example.com",
+      "cnpj": "03.030.303/0001-09",
+      "address": "Travessa das Rosas",
+      "number": "303",
+      "district": "Flores",
+      "zipCode": "33333-444",
+      "state": "MG"
+    }
+  },
+  {
+    "id": 10,
+    "client": {
+      "fantasyName": "Cliente J",
+      "corporateName": "Empresa J ME",
+      "email": "clienteJ@example.com",
+      "cnpj": "04.040.404/0001-10",
+      "address": "Praça das Árvores",
+      "number": "404",
+      "district": "Árvoredo",
+      "zipCode": "44444-555",
+      "state": "SP"
+    }
+  },
+  {
+    "id": 11,
+    "client": {
+      "fantasyName": "Cliente K",
+      "corporateName": "Empresa K S/A",
+      "email": "clienteK@example.com",
+      "cnpj": "05.050.505/0001-11",
+      "address": "Rua dos Ventos",
+      "number": "505",
+      "district": "Ventania",
+      "zipCode": "55555-666",
+      "state": "RJ"
+    }
+  },
+  {
+    "id": 12,
+    "client": {
+      "fantasyName": "Cliente L",
+      "corporateName": "Empresa L LTDA",
+      "email": "clienteL@example.com",
+      "cnpj": "06.060.606/0001-12",
+      "address": "Avenida das Ondas",
+      "number": "606",
+      "district": "Ondulação",
+      "zipCode": "66666-777",
+      "state": "MG"
+    }
+  },
+  {
+    "id": 13,
+    "client": {
+      "fantasyName": "Cliente M",
+      "corporateName": "Empresa M & Filhos",
+      "email": "clienteM@example.com",
+      "cnpj": "07.070.707/0001-13",
+      "address": "Travessa dos Rios",
+      "number": "707",
+      "district": "Riacho",
+      "zipCode": "77777-888",
+      "state": "SP"
+    }
+  },
+  {
+    "id": 14,
+    "client": {
+      "fantasyName": "Cliente N",
+      "corporateName": "Empresa N EIRELI",
+      "email": "clienteN@example.com",
+      "cnpj": "08.080.808/0001-14",
+      "address": "Rua das Montanhas",
+      "number": "808",
+      "district": "Montanha",
+      "zipCode": "88888-999",
+      "state": "RJ"
+    }
+  },
+  {
+    "id": 15,
+    "client": {
+      "fantasyName": "Cliente O",
+      "corporateName": "Empresa O ME",
+      "email": "clienteO@example.com",
+      "cnpj": "09.090.909/0001-15",
+      "address": "Avenida das Praias",
+      "number": "909",
+      "district": "Praiano",
+      "zipCode": "99999-000",
+      "state": "RJ"
+    }
+  },
+  {
+    "id": 16,
+    "client": {
+      "fantasyName": "Cliente P",
+      "corporateName": "Empresa P S/A",
+      "email": "clienteP@example.com",
+      "cnpj": "10.101.010/0001-16",
+      "address": "Rua das Estrelas",
+      "number": "1010",
+      "district": "Estelar",
+      "zipCode": "10101-010",
+      "state": "SP"
+    }
+  },
+  {
+    "id": 17,
+    "client": {
+      "fantasyName": "Cliente Q",
+      "corporateName": "Empresa Q LTDA",
+      "email": "clienteQ@example.com",
+      "cnpj": "11.111.111/0001-17",
+      "address": "Avenida das Luas",
+      "number": "111",
+      "district": "Lunar",
+      "zipCode": "11111-222",
+      "state": "RJ"
+    }
+  },
+  {
+    "id": 18,
+    "client": {
+      "fantasyName": "Cliente R",
+      "corporateName": "Empresa R & Filhos",
+      "email": "clienteR@example.com",
+      "cnpj": "12.121.212/0001-18",
+      "address": "Travessa dos Planetas",
+      "number": "1212",
+      "district": "Planetário",
+      "zipCode": "22222-333",
+      "state": "MG"
+    }
+  },
+  {
+    "id": 19,
+    "client": {
+      "fantasyName": "Cliente S",
+      "corporateName": "Empresa S EIRELI",
+      "email": "clienteS@example.com",
+      "cnpj": "13.131.313/0001-19",
+      "address": "Rua das Galáxias",
+      "number": "1313",
+      "district": "Galáctico",
+      "zipCode": "33333-444",
+      "state": "SP"
+    }
+  },
+  {
+    "id": 20,
+    "client": {
+      "fantasyName": "Cliente T",
+      "corporateName": "Empresa T ME",
+      "email": "clienteT@example.com",
+      "cnpj": "14.141.414/0001-20",
+      "address": "Avenida das Constelações",
+      "number": "1414",
+      "district": "Estrelado",
+      "zipCode": "44444-555",
+      "state": "RJ"
+    }
+  }
+]

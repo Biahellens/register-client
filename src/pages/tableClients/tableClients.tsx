@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useMemo } from "react"
 import styles from "./styles.module.scss"
 import Table from "./table"
-import json from "./APIClients.json";
+import json from "./clients.json";
 import peoples from "../../assets/peoples.svg"
 
 function TableClients() {
