@@ -10,9 +10,11 @@
     "@types/node": "^16.18.38",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
+    "fs": "^0.0.1-security",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "react-table": "^7.8.0",
     "sass": "^1.63.6",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
@@ -40,5 +42,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-table": "^7.7.14"
+  },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
   }
 }
