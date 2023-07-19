@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useMemo } from "react"
-import styles from './styles.module.scss'
+import styles from "./styles.module.scss"
 import Table from "./table"
-import json from './APIClients.json';
-import peoples from '../../assets/peoples.svg'
+import json from "./APIClients.json";
+import peoples from "../../assets/peoples.svg"
 
 function TableClients() {
   const columns = useMemo(
@@ -77,6 +77,11 @@ function TableClients() {
             <div className={styles.image}>
               <p>Clientes Cadastrados</p>
               <img src={peoples}/>
+              <div className={styles.email}>
+                <a href="mailto:cliente@email.com">
+                  <input type="submit" value="Enviar Email" />
+                </a>
+              </div>
             </div>
           </div>
           <div className={styles.table}>
