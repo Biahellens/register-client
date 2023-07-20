@@ -27,4 +27,4 @@ agora com o as dependencias instaladas, podemos estar inicializando com através
 $ yarn server:start
 ```
 
-que ficará disponivel na seguninte url: [localhost:3000](http://localhost:3000).
+que ficará disponivel na seguinte url: [localhost:3000](http://localhost:3000).
